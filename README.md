@@ -55,6 +55,7 @@ I am eager to contribute my skills and knowledge to impactful projects that make
 
 ## 📊 Dataset
 
+- **Kvasir and CVC-ClinicDB Dataset**: Used for image segmentation task.
 - **Iris Flower Dataset**: Used for various classification models.
 - **Kaggle’s Flight Price Dataset**: Employed in the flight price prediction project.
 - **Customer Churn Dataset**: Utilized in the churn prediction project to predict customer exits.
