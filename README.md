@@ -16,14 +16,13 @@ I am eager to contribute my skills and knowledge to impactful projects that make
 - **Tools**: Power BI, Excel, Jupyter Notebooks, VS Code, Flask
 - **Mathematics**: Probability, Statistics, Linear Algebra
 - **Database Management**: Oracle, MySQL
-- **Soft Skills**: Communication, Collaboration, Problem-solving, Adaptability
 
 ---
 
 ## 📚 Education
 
 - **MTech - Data Science** | Jawaharlal Nehru University, New Delhi | 2023 – Present
-  - GPA: 7.90 (upto SEM II)
+  - GPA: 7.90
 
 - **MCA - Computer Application** | Jadavpur University, West Bengal | 2021 – 2023
   - GPA: 8.65
