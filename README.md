@@ -33,7 +33,7 @@ Pursuing MTech Data Science at Jawaharlal Nehru University with a strong foundat
 
 ## 💼 Projects
 
-### 1. [Multilevel Attention and Transformer based CNN for Medical Image Segmentation]
+### 1. Multilevel Attention and Transformer based CNN for Medical Image Segmentation
 - **Technologies**: Pytorch, TensorFlow, OpenCV, Pandas, Numpy, Seaborn
 - **Description**: • Developed a deep learning model using TransAttUNet architecture to perform medical image segmentation on ISIC-2018, Kvasir-SEG, and CVC-ClinicDB datasets.
 • Incorporated Transformer Self Attention (TSA) and Global Spatial Attention (GSA) mechanisms to enhance
