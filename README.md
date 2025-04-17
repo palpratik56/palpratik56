@@ -110,4 +110,4 @@ With experience in designing robust deep learning pipelines and publishing in Sc
 ## 🌐 Let’s Connect
 
 - 📫 **Email:** pratik25_scs@jnu.ac.in  
-- 🔗 **LinkedIn:** [Your LinkedIn Profile](#) (https://www.linkedin.com/in/pratik-pal-488661221/)
+- 🔗 **LinkedIn:** [Pratik Pal](https://www.linkedin.com/in/pratik-pal-488661221/)
