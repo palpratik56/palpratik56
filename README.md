@@ -97,13 +97,13 @@ With experience in designing robust deep learning pipelines and publishing in Sc
 **Publication:** *To appear in* Procedia Computer Science, Elsevier  
 **Contribution:** Co-authored and presented novel DNN-based classification pipeline for medical diagnostics.
 
-[📜 View Certificate](#)(https://drive.google.com/file/d/1POr-ErSeOWcAcqFLa8nVq5lJvy5Ny_39/view?usp=sharing)
+[📜 View Certificate](#) (https://drive.google.com/file/d/1POr-ErSeOWcAcqFLa8nVq5lJvy5Ny_39/view?usp=sharing)
 ---
 
 ## 📜 Certifications
 
 - 🧪 **Data Analysis with Python** – *IBM / Coursera*  
-  [View Certificate](#)(https://www.coursera.org/account/accomplishments/verify/B83L23T8PQW8)
+  [View Certificate](#) (https://www.coursera.org/account/accomplishments/verify/B83L23T8PQW8)
 
 ---
 
