@@ -97,7 +97,7 @@ With experience in designing robust deep learning pipelines and publishing in Sc
 **Publication:** *To appear in* Procedia Computer Science, Elsevier  
 **Contribution:** Co-authored and presented novel DNN-based classification pipeline for medical diagnostics.
 
-- [📜 View Certificate](https://drive.google.com/file/d/1POr-ErSeOWcAcqFLa8nVq5lJvy5Ny_39/view?usp=sharing)
+- [Participation Certificate](https://drive.google.com/file/d/1POr-ErSeOWcAcqFLa8nVq5lJvy5Ny_39/view?usp=sharing)
 ---
 
 ## 📜 Certifications
