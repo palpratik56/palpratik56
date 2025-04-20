@@ -38,7 +38,7 @@ With experience in designing robust deep learning pipelines and publishing in Sc
 
 ## 🧪 Featured Research Projects
 
-### 🔬 1. MLAT-Net: A Hybrid Attention-Transformer for Medical Image Segmentation  
+### 🔬 1. MLAT-Net: A Hybrid Attention-Transformer for Medical Image Segmentation | [Project Link](https://github.com/palpratik56/MLAT-Net)
 **Technologies:** PyTorch, TensorFlow, OpenCV  
 **Datasets:** ISIC-2018, Kvasir-SEG, CVC-ClinicDB  
 **Highlights:**  
@@ -54,7 +54,7 @@ With experience in designing robust deep learning pipelines and publishing in Sc
 
 ---
 
-### 📊 2. Comparative Analysis of U-Net vs Attention U-Net  
+### 📊 2. Comparative Analysis of U-Net vs Attention U-Net | [Project Link](https://github.com/palpratik56/AUNET)
 **Technologies:** TensorFlow, Sklearn, OpenCV  
 - Analyzed spatial feature retention and semantic segmentation quality in medical imaging.  
 - Achieved **91% segmentation accuracy** using attention-enhanced U-Net architectures.  
@@ -62,7 +62,7 @@ With experience in designing robust deep learning pipelines and publishing in Sc
 
 ---
 
-### ✈️ 3. Flight Price Prediction Web App  
+### ✈️ 3. Flight Price Prediction Web App | [Project Link](https://github.com/palpratik56/Flight-Price-Prediction-using-ML)
 **Technologies:** Python, Flask, Scikit-learn, Matplotlib  
 - Built a fully deployed Flask app with ML models (Random Forest, XGBoost, Linear Regression)  
 - Achieved **94% accuracy**, incorporating feature engineering, encoding, and cross-validation.
