@@ -1,6 +1,6 @@
 # 👨‍🔬 Pratik Pal | Data Scientist & AI/ML Research Enthusiast  
 🚀 Ph.D. Aspirant | M.Tech in Data Science @ Jawaharlal Nehru University, New Delhi  
-🔍 Focus Areas: Medical Image Analysis • Deep Learning • Self-Attention Transformers • Data-Driven Research
+🔍 Focus Areas: Medical Image Procesiing using Deep Learning • Data-Driven Research
 
 ---
 
@@ -109,5 +109,5 @@ With experience in designing robust deep learning pipelines and publishing in Sc
 
 ## 🌐 Let’s Connect
 
-- 📫 **Email:** pratik25_scs@jnu.ac.in  
+- 📫 **Email:** palpratik56@gmail.com  
 - 🔗 **LinkedIn:** [Pratik Pal](https://www.linkedin.com/in/pratik-pal-488661221/)
