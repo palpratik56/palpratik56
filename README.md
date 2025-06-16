@@ -1,6 +1,6 @@
 # 👨‍🔬 Pratik Pal | Data Scientist & AI/ML Research Enthusiast  
-🚀 Aspiring Data Scientist | M.Tech in Data Science @ JNU | Passionate about Machine Learning & AI Applications  
-🔍 Focus Areas: Medical Image Procesiing using Deep Learning • Data-Driven Research
+🚀 Aspiring Data Scientist actively seeking opportunities | M.Tech Data Science @ JNU | Skilled in Deep Learning, ML, Model Deployment 
+🔍 Focus Areas: Medical Image Processing using Deep Learning • Data-Driven Research
 
 ---
 
@@ -106,6 +106,13 @@ Detail-oriented and motivated Data Science postgraduate student with hands-on ex
 ---
 
 ## 🌐 Let’s Connect
-
+- I’m open to internships, entry-level opportunities, or collaborative AI/ML projects. Feel free to reach out via email or LinkedIn — let’s build something great together!
 - 📫 **Email:** palpratik56@gmail.com  
 - 🔗 **LinkedIn:** [Pratik Pal](https://www.linkedin.com/in/pratik-pal-488661221/)
+
+---
+
+## 🎯 What I’m Looking For
+
+I’m seeking an entry-level role or internship as a Data Scientist or Machine Learning Engineer where I can apply my skills in model development, deployment, and data-driven decision-making. Open to research-led or product-based teams working on impactful AI solutions.
+
