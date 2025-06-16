@@ -1,5 +1,5 @@
 # 👨‍🔬 Pratik Pal | Data Scientist & AI/ML Research Enthusiast  
-🚀 Ph.D. Aspirant | M.Tech in Data Science @ Jawaharlal Nehru University, New Delhi  
+🚀 Aspiring Data Scientist | M.Tech in Data Science @ JNU | Passionate about Machine Learning & AI Applications  
 🔍 Focus Areas: Medical Image Procesiing using Deep Learning • Data-Driven Research
 
 ---
@@ -67,7 +67,7 @@ Detail-oriented and motivated Data Science postgraduate student with hands-on ex
 
 ---
 
-### 🛍️ 4. Blinkit Sales Dashboard  
+### 🛍️ 4. Blinkit Sales Dashboard | [Dashboard Link](https://drive.google.com/drive/folders/1PfDHb1Bgdkmv3X6T5kZ4ssvW05gPz3qd?usp=drive_link) 
 **Technologies:** Power BI, DAX  
 - Created an interactive sales dashboard tracking outlet KPIs from 2011–2022.  
 - Modeled data pipelines and visualized trends, performance, and category-wise breakdowns.
