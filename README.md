@@ -6,9 +6,7 @@
 
 ## 👋 About Me
 
-I am a research-focused data scientist currently pursuing an **M.Tech in Data Science** at **Jawaharlal Nehru University (JNU)** with a strong academic foundation in **mathematics**, **machine learning**, and **deep learning systems**. My current work emphasizes **transformer-based hybrid architectures** for **medical image segmentation**, where I’ve achieved benchmark-level performance on multiple open datasets.  
-
-With experience in designing robust deep learning pipelines and publishing in Scopus-indexed venues, I aim to further expand my research in the fields of **computational medicine**, **neural architectures**, and **explainable AI** through doctoral studies at a reputed institute like **IIT**.
+Detail-oriented and motivated Data Science postgraduate student with hands-on experience in deep learning, machine learning, and data-driven project work using Python. Skilled in TensorFlow, Scikit-learn, and Pandas. Completed multiple ML/DL projects involving image segmentation and prediction modeling. Strong analytical mindset with a solid foundation in statistics and operations research. Actively exploring Gen AI concepts and cloud tools. Adept in version control and collaborative tools.
 
 ---
 
