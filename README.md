@@ -95,7 +95,7 @@ Detail-oriented and motivated Data Science postgraduate student with hands-on ex
 **Publication:** *To appear in* Procedia Computer Science, Elsevier  
 **Contribution:** Co-authored and presented novel DNN-based classification pipeline for medical diagnostics.
 
-- [Participation Certificate](https://drive.google.com/file/d/1POr-ErSeOWcAcqFLa8nVq5lJvy5Ny_39/view?usp=sharing)
+- [Paper link](https://doi.org/10.1016/j.procs.2025.04.231)
 ---
 
 ## 📜 Certifications
