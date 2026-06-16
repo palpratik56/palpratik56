@@ -1,85 +1,160 @@
+# 👨‍🏫 Pratik Pal | Assistant Professor (Data Science) | AI Researcher in Medical Imaging
 
-# 👨‍🏫 Pratik Pal | M.Tech Data Science @ JNU | AI Researcher in Medical Imaging
-
-🔬 Aspiring academic & researcher in **Deep Learning and Medical Image Analysis**
-📚 M.Tech (Data Science), Jawaharlal Nehru University | GATE 2025 (DS & AI) – AIR 915
-🧠 Research Interests: Medical Image Segmentation • Attention & Transformer Models • Trustworthy AI • Statistical Learning
+🔬 Researcher in **Medical Image Analysis, Deep Learning, and Trustworthy AI**
+🎓 M.Tech (Data Science), Jawaharlal Nehru University (JNU) | GATE 2025 (DS & AI) – AIR 915
+🏫 **Assistant Professor, Department of Data Science, Dayananda Sagar University (DSU)**
+🧠 Research Interests: Medical Image Segmentation and Classification using Deep Learning • Attention & Transformer Models • Explainable AI
 
 ---
 
 ## 👋 About Me
 
-I am a Data Science postgraduate researcher with a strong academic foundation in **mathematics, machine learning, and deep learning**, completed my M.Tech at **Jawaharlal Nehru University (JNU)** in 2023. My primary research focus lies in **medical image segmentation using attention mechanisms and transformer-based CNN architectures**.
+I am an Assistant Professor in Data Science and an aspiring researcher with a strong academic foundation in **mathematics, machine learning, deep learning, and statistical modeling**. My primary research focus lies in **medical image segmentation**, particularly the development of attention-enhanced and transformer-based architectures for clinically reliable image analysis.
 
-My work emphasizes **methodologically sound experimentation, reproducibility, and performance evaluation across multiple clinical datasets**. I have hands-on experience designing hybrid deep learning models, conducting optimizer-level ablation studies, and analyzing segmentation metrics such as Dice, IoU, Precision, and Recall.
+My research emphasizes **methodologically rigorous experimentation, reproducibility, statistical validation, and model interpretability**. I have hands-on experience designing hybrid CNN-Transformer frameworks, conducting extensive ablation studies, and evaluating models across multiple biomedical imaging datasets using standard segmentation metrics.
 
-Beyond deep learning, I maintain strong interests in **statistical modeling, time-series forecasting, and optimization techniques**, and I actively explore emerging topics such as **LLMs and explainable AI for healthcare**.
+In addition to medical image analysis, I actively explore **large language models (LLMs), explainable AI, trustworthy AI, and statistical learning methodologies** for healthcare applications.
 
-My long-term goal is to pursue a **PhD and a research-driven academic career**, contributing to robust, clinically reliable AI systems and mentoring future engineers and researchers.
+I am deeply passionate about pursuing a **PhD in the field of Medical Image Segmentation and Analysis**, with the long-term goal of contributing to impactful healthcare AI research and building a successful academic and research career.
 
 ---
 
 ## 🧠 Research & Technical Expertise
 
-**Core Areas**
+### Core Research Areas
 
-* Medical Image Segmentation & Analysis
+* Medical Image Segmentation & Biomedical Image Analysis
+* Deep Learning for Healthcare
 * CNNs, Attention Mechanisms & Vision Transformers
-* Statistical Learning & Model Evaluation
+* Explainable & Trustworthy AI
+* Statistical Learning & Model Validation
 * Optimization Techniques in Deep Learning
-* Reproducible ML Experiments
+* Reproducible Machine Learning Research
 
-**Tools & Frameworks**
+### Tools & Frameworks
 
-* PyTorch, TensorFlow, Keras, Scikit-learn
-* NumPy, Pandas, OpenCV, Matplotlib, Seaborn
-* SQL, Git/GitHub, Power BI
+* PyTorch, TensorFlow, Keras
+* Scikit-learn, NumPy, Pandas
+* OpenCV, Matplotlib, Seaborn
+* SQL, Git/GitHub
+* Power BI
 
-**Mathematical Foundation**
+### Mathematical Foundation
 
-* Probability & Inferential Statistics
+* Probability Theory
+* Inferential Statistics
 * Linear Algebra
 * Optimization Methods
+* Statistical Modeling
 
 ---
 
-## 🧪 Selected Research Work
+## 🧪 Research Highlights
 
-### 🔬 MLAT-Net: Multilevel Attention & Transformer-based CNN for Medical Image Segmentation
+### 🔬 MLAT-Net: Multilevel Attention & Transformer-Based CNN for Medical Image Segmentation
 
-* Datasets: ISIC-2018, Kvasir-SEG, CVC-ClinicDB
-* Achieved Dice scores: **91% / 79% / 81%** respectively
-* Designed hybrid architecture integrating CNN encoders with self-attention and transformer blocks
-* Performed optimizer-wise comparative evaluation (Adam, RMSProp, Adagrad, SGD)
-* Forms the basis of my **M.Tech dissertation**
+**Datasets:** ISIC-2018, Kvasir-SEG, CVC-ClinicDB
 
-### 📄 Publication
+**Performance (Dice Score):**
+
+* ISIC-2018: 91%
+* Kvasir-SEG: 79%
+* CVC-ClinicDB: 81%
+
+**Key Contributions**
+
+* Developed a hybrid CNN-Transformer architecture for biomedical image segmentation.
+* Integrated multilevel attention mechanisms with transformer blocks.
+* Conducted optimizer-wise comparative studies using Adam, RMSProp, Adagrad, and SGD.
+* Performed extensive evaluation using Dice, IoU, Precision, Recall, and F1-Score.
+* Served as the foundation of my M.Tech dissertation research.
+
+---
+
+## 📚 Publications
+
+### Journal Publications (Q1 Indexed)
+
+✅ **2 Q1 Journal Articles Accepted**
+
+My recent research contributions in deep learning and medical image analysis have been accepted in reputed **Q1-indexed international journals**, focusing on advanced segmentation architectures and AI-driven healthcare applications.
+
+### Conference Publications
+
+✅ **2 International Conference Papers Accepted**
+
+Including research contributions in machine learning and medical imaging presented at international conferences.
+
+### Published Work
 
 **Breast Cancer Classification Using Deep Neural Networks**
-ICMLDE 2024 – Elsevier (Scopus Indexed), Procedia Computer Science
-DOI: [https://doi.org/10.1016/j.procs.2025.04.231](https://doi.org/10.1016/j.procs.2025.04.231)
+*ICMLDE 2024 – Elsevier Procedia Computer Science (Scopus Indexed)*
+
+DOI: https://doi.org/10.1016/j.procs.2025.04.231
 
 ---
 
 ## 🎓 Academic Background
 
-* **M.Tech in Data Science** – Jawaharlal Nehru University (2023–2025) | GPA: 8.89
-* **MCA** – Jadavpur University | GPA: 8.65
-* **B.Sc. Mathematics** – Scottish Church College, University of Calcutta | GPA: 8.12
+### M.Tech in Data Science
+
+**Jawaharlal Nehru University (JNU)** | 2023–2025
+GPA: **8.89**
+
+### Master of Computer Applications (MCA)
+
+**Jadavpur University**
+GPA: **8.65**
+
+### Bachelor of Science (Mathematics)
+
+**Scottish Church College, University of Calcutta**
+GPA: **8.12**
 
 ---
 
-## 📌 Current Focus
+## 👨‍🏫 Academic Experience
 
-* Enhancing attention-transformer hybrid architectures for biomedical segmentation
-* Statistical validation of deep learning models
-* Exploring **LLMs for medical decision support**
-* Preparing for **PhD applications and research-oriented faculty roles**
+### Assistant Professor – Data Science
+
+**Dayananda Sagar University (DSU)**
+
+* Teaching undergraduate and postgraduate courses in Data Science and Artificial Intelligence.
+* Mentoring student projects in Machine Learning and Deep Learning.
+* Conducting research in Medical Image Analysis and AI for Healthcare.
+* Promoting research-driven learning and reproducible AI practices.
 
 ---
 
-## 🌐 Connect
+## 🎯 Current Research Focus
+
+* Medical Image Segmentation using Attention and Transformer Architectures
+* Vision Transformers for Biomedical Imaging
+* Explainable and Trustworthy AI for Healthcare
+* Statistical Validation of Deep Learning Models
+* Foundation Models and LLMs for Clinical Decision Support
+* Multi-modal Learning for Medical Applications
+
+---
+
+## 🚀 Future Goals
+
+* Pursue a PhD in Medical Image Segmentation and Biomedical AI.
+* Publish impactful research in top-tier journals and conferences.
+* Collaborate with interdisciplinary healthcare research groups.
+* Develop clinically reliable and interpretable AI systems.
+* Contribute to academia through teaching, mentoring, and research.
+
+---
+
+## 🌐 Connect With Me
 
 📧 Email: [palpratik56@gmail.com](mailto:palpratik56@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/pratik-pal-488661221/](https://www.linkedin.com/in/pratik-pal-488661221/)
-💻 Google Scholar (coming soon)
+
+🔗 LinkedIn: https://www.linkedin.com/in/pratik-pal-488661221/
+
+💻 GitHub: https://github.com/
+
+---
+
+*"Advancing healthcare through robust, interpretable, and clinically trustworthy AI systems."*
