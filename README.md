@@ -2,7 +2,7 @@
 <h3 align="center">Assistant Professor (Data Science) | AI Researcher in Medical Imaging</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Medical+Image+Segmentation+%26+Deep+Learning;Attention+%26+Transformer+Architectures;Explainable+%26+Trustworthy+AI;GATE+2025+(DS+%26+AI)+-+AIR+915" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Applications+of+Deep+Learning+in+Biomedical+Images;Attention+%26+Transformer+Architectures;Explainable+%26+Trustworthy+AI;GATE+2025+(DS+%26+AI)+-+AIR+915" alt="Typing SVG" />
 </p>
 
 <p align="center">
