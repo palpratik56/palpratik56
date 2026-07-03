@@ -1,160 +1,143 @@
-# 👨‍🏫 Pratik Pal | Assistant Professor (Data Science) | AI Researcher in Medical Imaging
+<h1 align="center">👨‍🏫 Pratik Pal</h1>
+<h3 align="center">Assistant Professor (Data Science) | AI Researcher in Medical Imaging</h3>
 
-🔬 Researcher in **Medical Image Analysis, Deep Learning, and Trustworthy AI**
-🎓 M.Tech (Data Science), Jawaharlal Nehru University (JNU) | GATE 2025 (DS & AI) – AIR 915
-🏫 **Assistant Professor, Department of Data Science, Dayananda Sagar University (DSU)**
-🧠 Research Interests: Medical Image Segmentation and Classification using Deep Learning • Attention & Transformer Models • Explainable AI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Medical+Image+Segmentation+%26+Deep+Learning;Attention+%26+Transformer+Architectures;Explainable+%26+Trustworthy+AI;GATE+2025+(DS+%26+AI)+-+AIR+915" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratik-pal-488661221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:palpratik56@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/palpratik56"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=palpratik56&style=flat-square&color=blue" alt="Profile views">
+</p>
 
 ---
 
 ## 👋 About Me
 
-I am an Assistant Professor in Data Science and an aspiring researcher with a strong academic foundation in **mathematics, machine learning, deep learning, and statistical modeling**. My primary research focus lies in **medical image segmentation**, particularly the development of attention-enhanced and transformer-based architectures for clinically reliable image analysis.
+Assistant Professor in Data Science and an aspiring researcher with a strong academic foundation in **mathematics, machine learning, deep learning, and statistical modeling**. My primary research focus is **medical image segmentation** — designing attention-enhanced and transformer-based architectures for clinically reliable image analysis.
 
-My research emphasizes **methodologically rigorous experimentation, reproducibility, statistical validation, and model interpretability**. I have hands-on experience designing hybrid CNN-Transformer frameworks, conducting extensive ablation studies, and evaluating models across multiple biomedical imaging datasets using standard segmentation metrics.
+My work emphasizes **methodologically rigorous experimentation, reproducibility, statistical validation, and model interpretability**, with hands-on experience building hybrid CNN–Transformer frameworks, running extensive ablation studies, and evaluating models across multiple biomedical imaging datasets.
 
-In addition to medical image analysis, I actively explore **large language models (LLMs), explainable AI, trustworthy AI, and statistical learning methodologies** for healthcare applications.
-
-I am deeply passionate about pursuing a **PhD in the field of Medical Image Segmentation and Analysis**, with the long-term goal of contributing to impactful healthcare AI research and building a successful academic and research career.
+I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare applications, and I'm pursuing a **PhD in Medical Image Segmentation and Analysis**, aiming to build a research career in clinically impactful healthcare AI.
 
 ---
 
 ## 🧠 Research & Technical Expertise
 
-### Core Research Areas
+**Core Research Areas**
+`Medical Image Segmentation` `Deep Learning for Healthcare` `CNNs & Vision Transformers` `Explainable / Trustworthy AI` `Statistical Learning & Model Validation` `Reproducible ML Research`
 
-* Medical Image Segmentation & Biomedical Image Analysis
-* Deep Learning for Healthcare
-* CNNs, Attention Mechanisms & Vision Transformers
-* Explainable & Trustworthy AI
-* Statistical Learning & Model Validation
-* Optimization Techniques in Deep Learning
-* Reproducible Machine Learning Research
+**Tools & Frameworks**
 
-### Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
 
-* PyTorch, TensorFlow, Keras
-* Scikit-learn, NumPy, Pandas
-* OpenCV, Matplotlib, Seaborn
-* SQL, Git/GitHub
-* Power BI
-
-### Mathematical Foundation
-
-* Probability Theory
-* Inferential Statistics
-* Linear Algebra
-* Optimization Methods
-* Statistical Modeling
+**Mathematical Foundation**
+`Probability Theory` `Inferential Statistics` `Linear Algebra` `Optimization Methods` `Statistical Modeling`
 
 ---
 
-## 🧪 Research Highlights
+## 🧪 Featured Research
 
-### 🔬 MLAT-Net: Multilevel Attention & Transformer-Based CNN for Medical Image Segmentation
+### 🔬 MLAT-Net — Multilevel Attention & Transformer-Based CNN for Medical Image Segmentation
+*M.Tech dissertation research*
 
-**Datasets:** ISIC-2018, Kvasir-SEG, CVC-ClinicDB
+| Dataset | Dice Score |
+|---|---|
+| ISIC-2018 | 91% |
+| Kvasir-SEG | 79% |
+| CVC-ClinicDB | 81% |
 
-**Performance (Dice Score):**
+- Hybrid CNN–Transformer architecture with multilevel attention integration
+- Optimizer-wise comparative study (Adam, RMSProp, Adagrad, SGD)
+- Evaluated on Dice, IoU, Precision, Recall, F1-Score
 
-* ISIC-2018: 91%
-* Kvasir-SEG: 79%
-* CVC-ClinicDB: 81%
+<!-- Add more entries here as your other projects (BGTF-Net, FAFF-Net) go public:
+### 🩻 BGTF-Net — Boundary-Guided Transfer Fusion Network
+[Repo](link) · Dice 0.9312 · IoU 0.8833 · Q1 submission (Computers in Biology and Medicine)
+-->
 
-**Key Contributions**
-
-* Developed a hybrid CNN-Transformer architecture for biomedical image segmentation.
-* Integrated multilevel attention mechanisms with transformer blocks.
-* Conducted optimizer-wise comparative studies using Adam, RMSProp, Adagrad, and SGD.
-* Performed extensive evaluation using Dice, IoU, Precision, Recall, and F1-Score.
-* Served as the foundation of my M.Tech dissertation research.
+**📌 Pinned Projects**
+> Tip: pin your top 6 repos (e.g. MLAT-Net, BGTF-Net, FAFF-Net) directly from your GitHub profile page — "Customize your pins" — so visitors can click straight into the code instead of only reading about it here.
 
 ---
 
 ## 📚 Publications
 
-### Journal Publications (Q1 Indexed)
+**✅ 2 Q1-Indexed Journal Articles** — advanced segmentation architectures and AI-driven healthcare applications
+**✅ 2 International Conference Papers**
 
-✅ **2 Q1 Journal Articles Accepted**
-
-My recent research contributions in deep learning and medical image analysis have been accepted in reputed **Q1-indexed international journals**, focusing on advanced segmentation architectures and AI-driven healthcare applications.
-
-### Conference Publications
-
-✅ **2 International Conference Papers Accepted**
-
-Including research contributions in machine learning and medical imaging presented at international conferences.
-
-### Published Work
-
-**Breast Cancer Classification Using Deep Neural Networks**
-*ICMLDE 2024 – Elsevier Procedia Computer Science (Scopus Indexed)*
-
-DOI: https://doi.org/10.1016/j.procs.2025.04.231
+| Title | Venue | Link |
+|---|---|---|
+| Breast Cancer Classification Using Deep Neural Networks | ICMLDE 2024 · Elsevier Procedia CS (Scopus) | [DOI](https://doi.org/10.1016/j.procs.2025.04.231) |
 
 ---
 
 ## 🎓 Academic Background
 
-### M.Tech in Data Science
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| M.Tech, Data Science | Jawaharlal Nehru University (JNU) | GPA 8.89 | 2023–2025 |
+| MCA | Jadavpur University | GPA 8.65 | — |
+| B.Sc. Mathematics | Scottish Church College, University of Calcutta | GPA 8.12 | — |
 
-**Jawaharlal Nehru University (JNU)** | 2023–2025
-GPA: **8.89**
-
-### Master of Computer Applications (MCA)
-
-**Jadavpur University**
-GPA: **8.65**
-
-### Bachelor of Science (Mathematics)
-
-**Scottish Church College, University of Calcutta**
-GPA: **8.12**
+🏅 **GATE 2025 (Data Science & AI)** — All India Rank **915**
 
 ---
 
 ## 👨‍🏫 Academic Experience
 
-### Assistant Professor – Data Science
-
-**Dayananda Sagar University (DSU)**
-
-* Teaching undergraduate and postgraduate courses in Data Science and Artificial Intelligence.
-* Mentoring student projects in Machine Learning and Deep Learning.
-* Conducting research in Medical Image Analysis and AI for Healthcare.
-* Promoting research-driven learning and reproducible AI practices.
+**Assistant Professor – Data Science, Dayananda Sagar University (DSU)**
+- Teaching UG/PG courses in Data Science and Artificial Intelligence
+- Mentoring student ML/DL projects
+- Research in Medical Image Analysis and AI for Healthcare
+- Promoting research-driven, reproducible AI practices
 
 ---
 
 ## 🎯 Current Research Focus
+- Medical image segmentation via attention & transformer architectures
+- Vision Transformers for biomedical imaging
+- Explainable and trustworthy AI for healthcare
+- Statistical validation of deep learning models
+- Foundation models / LLMs for clinical decision support
+- Multi-modal learning for medical applications
 
-* Medical Image Segmentation using Attention and Transformer Architectures
-* Vision Transformers for Biomedical Imaging
-* Explainable and Trustworthy AI for Healthcare
-* Statistical Validation of Deep Learning Models
-* Foundation Models and LLMs for Clinical Decision Support
-* Multi-modal Learning for Medical Applications
+## 🚀 Future Goals
+- PhD in Medical Image Segmentation and Biomedical AI
+- Publish in top-tier journals and conferences
+- Interdisciplinary healthcare research collaborations
+- Clinically reliable, interpretable AI systems
 
 ---
 
-## 🚀 Future Goals
+## 📊 GitHub Stats
 
-* Pursue a PhD in Medical Image Segmentation and Biomedical AI.
-* Publish impactful research in top-tier journals and conferences.
-* Collaborate with interdisciplinary healthcare research groups.
-* Develop clinically reliable and interpretable AI systems.
-* Contribute to academia through teaching, mentoring, and research.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palpratik56&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palpratik56&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palpratik56&layout=compact&hide_border=true" height="165">
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: [palpratik56@gmail.com](mailto:palpratik56@gmail.com)
+📧 [palpratik56@gmail.com](mailto:palpratik56@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/pratik-pal-488661221/) · 💻 [GitHub](https://github.com/palpratik56)
 
-🔗 LinkedIn: https://www.linkedin.com/in/pratik-pal-488661221/
-
-💻 GitHub: https://github.com/
-
----
-
-*"Advancing healthcare through robust, interpretable, and clinically trustworthy AI systems."*
+<p align="center"><i>"Advancing healthcare through robust, interpretable, and clinically trustworthy AI systems."</i></p>
