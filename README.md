@@ -64,10 +64,10 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 - Optimizer-wise comparative study (Adam, RMSProp, Adagrad, SGD)
 - Evaluated on Dice, IoU, Precision, Recall, F1-Score
 
-<!-- Add more entries here as your other projects (BGTF-Net, FAFF-Net) go public:
-### 🩻 BGTF-Net — Boundary-Guided Transfer Fusion Network
-[Repo](link) · Dice 0.9312 · IoU 0.8833 · Q1 submission (Computers in Biology and Medicine)
--->
+### 📄 MLAT-Net — Published in *Neural Computing and Applications* (Springer, Q1)
+**MLAT-Net: A novel hybrid version of multilevel attention with transformer for medical image segmentation**
+Jadhav, S.B. & Pal, P. · *Neural Comput & Applic* **38**, 545 (2026)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00521--026--12297--4-blue?style=flat-square)](https://doi.org/10.1007/s00521-026-12297-4)
 
 **📌 Pinned Projects**
 > Tip: pin your top 6 repos (e.g. MLAT-Net, BGTF-Net, FAFF-Net) directly from your GitHub profile page — "Customize your pins" — so visitors can click straight into the code instead of only reading about it here.
@@ -77,7 +77,7 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 ## 📚 Publications
 
 **✅ 2 Q1-Indexed Journal Articles** — advanced segmentation architectures and AI-driven healthcare applications
-**✅ 2 International Conference Papers**
+**✅ 5 International Conference Papers**
 
 | Title | Venue | Link |
 |---|---|---|
