@@ -63,10 +63,7 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 - Hybrid CNN–Transformer architecture with multilevel attention integration
 - Optimizer-wise comparative study (Adam, RMSProp, Adagrad, SGD)
 - Evaluated on Dice, IoU, Precision, Recall, F1-Score
-
-### 📄 MLAT-Net — Published in *Neural Computing and Applications* (Springer, Q1)
-**MLAT-Net: A novel hybrid version of multilevel attention with transformer for medical image segmentation**
-Jadhav, S.B. & Pal, P. · *Neural Comput & Applic* **38**, 545 (2026)
+— Published in *Neural Computing and Applications* (Springer, Q1)
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00521--026--12297--4-blue?style=flat-square)](https://doi.org/10.1007/s00521-026-12297-4)
 
 **📌 Pinned Projects**
@@ -76,7 +73,7 @@ Jadhav, S.B. & Pal, P. · *Neural Comput & Applic* **38**, 545 (2026)
 
 ## 📚 Publications
 
-**✅ 2 Q1-Indexed Journal Articles** — advanced segmentation architectures and AI-driven healthcare applications
+**✅ 1 Q1-Indexed Journal Articles** — advanced segmentation architectures and AI-driven healthcare applications
 **✅ 5 International Conference Papers**
 
 | Title | Venue | Link |
