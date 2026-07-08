@@ -49,7 +49,7 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 
 ---
 
-## 🧪 Featured Research
+## 🧪 Featured Research and 📚 Publications
 
 ### 🔬 MLAT-Net — Multilevel Attention & Transformer-Based CNN for Medical Image Segmentation
 *M.Tech dissertation research*
@@ -66,15 +66,7 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 — Published in *Neural Computing and Applications* (Springer, Q1)
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00521--026--12297--4-blue?style=flat-square)](https://doi.org/10.1007/s00521-026-12297-4)
 
-**📌 Pinned Projects**
-> Tip: pin your top 6 repos (e.g. MLAT-Net, BGTF-Net, FAFF-Net) directly from your GitHub profile page — "Customize your pins" — so visitors can click straight into the code instead of only reading about it here.
-
----
-
-## 📚 Publications
-
-**✅ 1 Q1-Indexed Journal Articles** — advanced segmentation architectures and AI-driven healthcare applications
-**✅ 5 International Conference Papers**
+**✅ 3 International Conference Accepted Papers**
 
 | Title | Venue | Link |
 |---|---|---|
@@ -87,8 +79,8 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 | Degree | Institution | Score | Year |
 |---|---|---|---|
 | M.Tech, Data Science | Jawaharlal Nehru University (JNU) | GPA 8.89 | 2023–2025 |
-| MCA | Jadavpur University | GPA 8.65 | — |
-| B.Sc. Mathematics | Scottish Church College, University of Calcutta | GPA 8.12 | — |
+| MCA | Jadavpur University | GPA 8.65 | 2021-2023 |
+| B.Sc. Mathematics | Scottish Church College, University of Calcutta | GPA 8.12 | 2018-2021 |
 
 🏅 **GATE 2025 (Data Science & AI)** — All India Rank **915**
 
@@ -99,7 +91,6 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 **Assistant Professor – Data Science, Dayananda Sagar University (DSU)**
 - Teaching UG/PG courses in Data Science and Artificial Intelligence
 - Mentoring student ML/DL projects
-- Research in Medical Image Analysis and AI for Healthcare
 - Promoting research-driven, reproducible AI practices
 
 ---
@@ -108,7 +99,6 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 - Medical image segmentation via attention & transformer architectures
 - Vision Transformers for biomedical imaging
 - Explainable and trustworthy AI for healthcare
-- Statistical validation of deep learning models
 - Foundation models / LLMs for clinical decision support
 - Multi-modal learning for medical applications
 
