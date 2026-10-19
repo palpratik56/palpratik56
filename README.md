@@ -66,11 +66,13 @@ I also explore **LLMs, explainable AI, and trustworthy AI** for healthcare appli
 — Published in *Neural Computing and Applications* (Springer, Q1)
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00521--026--12297--4-blue?style=flat-square)](https://doi.org/10.1007/s00521-026-12297-4)
 
-**✅ 3 International Conference Accepted Papers**
+**✅ 2 International Conference Accepted Papers**
 
 | Title | Venue | Link |
 |---|---|---|
 | Breast Cancer Classification Using Deep Neural Networks | ICMLDE 2024 · Elsevier Procedia CS (Scopus) | [DOI](https://doi.org/10.1016/j.procs.2025.04.231) |
+| Diabetic Retinopathy Severity Classification Using Multi-Scale Feature Fusion with ResNet50 CNN | ISRSD 2026 · Accepted (Not Yet Published) | Publication Pending |
+
 
 ---
 
